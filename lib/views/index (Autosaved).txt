@@ -1,0 +1,4 @@
+<h1>My App</h1>
+<p>Welcome to the app</p>
+<p>..page content..</p>
+<p><%- app1inc({ test: 'app2' }) %></p>
